@@ -4,7 +4,7 @@ Program written to extract integers from a text file, and then utilise them to c
  - The text file that is used to test the code is called "input.txt"
  - The program will automatically create a file called "Output.txt"
  - "Output.txt" will contain the calculated RMS value
- - The RMS value for "input.txt" should be: 7.9686885
+ - The RMS value for "input.txt" should be: 7.9686885 (approximately)
 #
  - This work was done by Raphael Druion as a company interview requirement
  - This was my first time interacting with Java
