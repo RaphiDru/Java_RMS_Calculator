@@ -84,7 +84,7 @@ public class RMS_Calculator {
 
 			// Write to an Output file.
 			try (Writer writer = new BufferedWriter(new OutputStreamWriter(
-					new FileOutputStream("Output.txt"), "utf-8"))) {
+					new FileOutputStream("output.txt"), "utf-8"))) {
 				writer.write(String.valueOf(root));
 			}
 
